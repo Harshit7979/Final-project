@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/Abhayparashar31/Diabetes-prediction">View Codes</a>
     ·
-    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    <a>Report Bug -> Harshit kumar</a>
     
   </p>
 </p>
@@ -41,10 +41,10 @@
     <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
   </a>
 
-`Abhayparashar31`, `Diabetes-prediction`,  `parasharabhay13@gmail.com`
+`Harshit Kumar`, `Diabetes-prediction`,  `2020pietcsharshit73@poornima.org`
 
 
-### Built With
+### Built Witho
 
 * [Python](python)
 * [Flask](flask)
