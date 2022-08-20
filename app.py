@@ -10,6 +10,9 @@ model = pickle.load(open("Diabetes.pkl", "rb"))
 @app.route('/')
 def hello_world():
     return render_template("index.html")
+@app.route('/aboutme')
+def aboutme():
+    return render_template("aboutme.html")
 
 
 @app.route('/predict',methods=['POST','GET'])
